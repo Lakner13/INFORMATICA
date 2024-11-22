@@ -2,6 +2,11 @@
 
 # Atividades
 
+# Quem sou eu?
+
+![post 1](https://github.com/user-attachments/assets/fa1ca86a-23ec-422d-b8b0-59df7b1541de)
+
+
 # EXCEL
  [Atividade 20/09 - Planilhas: fórmulas e dados abertos](https://github.com/Lakner13/INFORMATICA/blob/main/INFORMATICA%20-%20LUIZ%20GABRIEL%20-%2020-09.xlsx) |
 
