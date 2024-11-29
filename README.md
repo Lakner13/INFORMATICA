@@ -9,6 +9,7 @@
 
 # EXCEL
  [Atividade 20/09 - Planilhas: fórmulas e dados abertos](https://github.com/Lakner13/INFORMATICA/blob/main/INFORMATICA%20-%20LUIZ%20GABRIEL%20-%2020-09.xlsx) 
+![Captura de tela 2024-11-28 220744](https://github.com/user-attachments/assets/446bac16-0d9d-4585-a209-c76c0e62fd1e)
 
 # POWER BI
 
