@@ -22,3 +22,6 @@
 
 https://github.com/user-attachments/assets/574f5d60-2fb4-42f2-a237-e5f61d3d0d1a
 
+# DASHBOARD - PROVA 28/11/2024
+[DASHBOARD - PROVA 28/11/2024](https://github.com/Lakner13/INFORMATICA/blob/main/DASHBOARD.pbix) 
+![DASHBOARD](https://github.com/user-attachments/assets/586ad4d8-9ca4-4770-817d-faa7efa9898f)
