@@ -2,14 +2,14 @@
 
 <h1 align="center"> ATIVIDADES </h1>
 
-* <h3> QUEM SOU EU? </h3>
+* <h2> QUEM SOU EU? </h2>
 
 ![post 1](https://github.com/user-attachments/assets/fa1ca86a-23ec-422d-b8b0-59df7b1541de)
 
 
 
 
-* <h3> EXCEL </h3>
+* <h2> EXCEL </h2>
  [Atividade 20/09 - Planilhas: fórmulas e dados abertos - *CLIQUE PARA BAIXAR*](https://github.com/Lakner13/INFORMATICA/blob/main/INFORMATICA%20-%20LUIZ%20GABRIEL%20-%2020-09.xlsx) 
 
 ![Captura de tela 2024-11-28 220744](https://github.com/user-attachments/assets/446bac16-0d9d-4585-a209-c76c0e62fd1e)
@@ -17,7 +17,7 @@
 
 
 
-* <h3> POWER BI - KPI </h3>
+* <h2> POWER BI - KPI </h2>
 
 [KPI POWER BI - *CLIQUE PARA BAIXAR*](https://github.com/Lakner13/INFORMATICA/blob/main/KPI%20POWER%20BI.pbix) 
 
@@ -26,7 +26,7 @@
 
 
 
-* <h3> POWER APPS </h3>
+* <h2> POWER APPS </h2>
  
  Desenvolvimento de aplicativo para gerenciar uma loja de roupa.
 
@@ -35,7 +35,7 @@
 
 https://github.com/user-attachments/assets/574f5d60-2fb4-42f2-a237-e5f61d3d0d1a
 
-* <h3> DASHBOARD - PROVA 28/11/2024 </h3>
+* <h2> DASHBOARD - PROVA 28/11/2024 </h2>
 [DASHBOARD - PROVA 28/11/2024 - *CLIQUE PARA BAIXAR*](https://github.com/Lakner13/INFORMATICA/blob/main/DASHBOARD.pbix) 
 
 ![DASHBOARD](https://github.com/user-attachments/assets/586ad4d8-9ca4-4770-817d-faa7efa9898f)
