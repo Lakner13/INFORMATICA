@@ -1,4 +1,4 @@
-# Trabalhos de informática
+<h1 align="center"> TRABALHOS DE INFORMÁTICA </h1>
 
 # Atividades
 
