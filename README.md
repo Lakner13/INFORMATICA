@@ -1,5 +1,11 @@
 <h1 align="center"> TRABALHOS DE INFORMÁTICA </h1>
 
+## Índice
+* [QUEM SOU EU?](https://github.com/Lakner13/INFORMATICA/edit/main/README.md#-quem-sou-eu-)
+* [EXCEL](https://github.com/Lakner13/INFORMATICA/edit/main/README.md#-excel-)
+* 
+
+
 <h1 align="center"> ATIVIDADES </h1>
 
 * <h2> QUEM SOU EU? </h2>
