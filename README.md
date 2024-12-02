@@ -2,7 +2,7 @@
 
 <h1 align="center"> ATIVIDADES </h1>
 
-* Quem sou eu?
+* <h3> Quem sou eu? </h3>
 
 ![post 1](https://github.com/user-attachments/assets/fa1ca86a-23ec-422d-b8b0-59df7b1541de)
 
