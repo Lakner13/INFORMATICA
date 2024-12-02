@@ -2,14 +2,14 @@
 
 <h1 align="center"> ATIVIDADES </h1>
 
-* <h3> Quem sou eu? </h3>
+* <h3> QUEM SOU EU? </h3>
 
 ![post 1](https://github.com/user-attachments/assets/fa1ca86a-23ec-422d-b8b0-59df7b1541de)
 
 
 
 
-# EXCEL
+* <h3> EXCEL </h3>
  [Atividade 20/09 - Planilhas: fórmulas e dados abertos - *CLIQUE PARA BAIXAR*](https://github.com/Lakner13/INFORMATICA/blob/main/INFORMATICA%20-%20LUIZ%20GABRIEL%20-%2020-09.xlsx) 
 
 ![Captura de tela 2024-11-28 220744](https://github.com/user-attachments/assets/446bac16-0d9d-4585-a209-c76c0e62fd1e)
@@ -17,7 +17,7 @@
 
 
 
-# POWER BI
+<h3> * POWER BI - KPI </h3>
 
 [KPI POWER BI - *CLIQUE PARA BAIXAR*](https://github.com/Lakner13/INFORMATICA/blob/main/KPI%20POWER%20BI.pbix) 
 
