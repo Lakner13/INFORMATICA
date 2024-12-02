@@ -1,9 +1,11 @@
 <h1 align="center"> TRABALHOS DE INFORMÁTICA </h1>
 
 ## Índice
-* [QUEM SOU EU?](https://github.com/Lakner13/INFORMATICA/edit/main/README.md#-quem-sou-eu-)
-* [EXCEL](https://github.com/Lakner13/INFORMATICA/edit/main/README.md#-excel-)
-* 
+* [QUEM SOU EU?](https://github.com/Lakner13/INFORMATICA?tab=readme-ov-file#-quem-sou-eu-)
+* [EXCEL](https://github.com/Lakner13/INFORMATICA?tab=readme-ov-file#-excel-)
+* [POWER BI - KPI](https://github.com/Lakner13/INFORMATICA?tab=readme-ov-file#-power-bi---kpi-)
+* [POWER APPS](https://github.com/Lakner13/INFORMATICA?tab=readme-ov-file#-power-apps-)
+* [DASHBOARD - PROVA 28/11/2024](https://github.com/Lakner13/INFORMATICA?tab=readme-ov-file#-dashboard---prova-28112024-)
 
 
 <h1 align="center"> ATIVIDADES </h1>
