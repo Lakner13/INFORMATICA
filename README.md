@@ -1,6 +1,6 @@
 <h1 align="center"> TRABALHOS DE INFORMÁTICA </h1>
 
-<h3 align="center"> ATIVIDADES </h3>
+<h1 align="center"> # ATIVIDADES </h1>
 
 # Quem sou eu?
 
