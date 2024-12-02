@@ -1,8 +1,8 @@
 <h1 align="center"> TRABALHOS DE INFORMÁTICA </h1>
 
-<h1 align="center"> # ATIVIDADES </h1>
+<h1 align="center"> ATIVIDADES </h1>
 
-# Quem sou eu?
+* Quem sou eu?
 
 ![post 1](https://github.com/user-attachments/assets/fa1ca86a-23ec-422d-b8b0-59df7b1541de)
 
